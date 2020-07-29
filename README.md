@@ -4,3 +4,4 @@
 - git add : add the file to staging area
 - git commit : add file to master
 - git status : show the status
+- update
