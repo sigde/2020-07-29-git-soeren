@@ -1,4 +1,6 @@
-# branch 2
+
+# titel branch 1
+
 
 - git init : create repository in your current folder
 - git add : add the file to staging area
