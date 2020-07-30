@@ -6,3 +6,4 @@
 - git status : show the status
 - update
 - new
+- git clone <URL>
