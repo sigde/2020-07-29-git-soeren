@@ -8,3 +8,4 @@
 - new
 - git clone <URL>
 - branch
+- git log: 
